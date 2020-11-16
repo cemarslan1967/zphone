@@ -1,2 +1,2 @@
 # zphone
-This is a andorid dialer example
+This is an andorid dialer example
